@@ -1,1 +1,2 @@
-EBS - alx-image-filter.us-east-1.elasticbeanstalk.com
+EBS - alx-image-filter2.us-east-1.elasticbeanstalk.com
+REPOSITORY_URL: https://github.com/Lodakins/ALX_Image_Processing_System
